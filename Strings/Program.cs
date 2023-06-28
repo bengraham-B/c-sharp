@@ -17,7 +17,7 @@ class Program
 
         Console.WriteLine(phrase[0]);
         
-        Console.WriteLine("Added From Rider");
+        Console.WriteLine("Added From VS code 22:53");
 
 
         Console.WriteLine("");
