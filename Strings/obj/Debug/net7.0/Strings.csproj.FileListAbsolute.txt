@@ -1,0 +1,15 @@
+/Users/bengraham/Software/C_Sharp/tutorial/Strings/obj/Debug/net7.0/Strings.csproj.AssemblyReference.cache
+/Users/bengraham/Software/C_Sharp/tutorial/Strings/obj/Debug/net7.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bengraham/Software/C_Sharp/tutorial/Strings/obj/Debug/net7.0/Strings.AssemblyInfoInputs.cache
+/Users/bengraham/Software/C_Sharp/tutorial/Strings/obj/Debug/net7.0/Strings.AssemblyInfo.cs
+/Users/bengraham/Software/C_Sharp/tutorial/Strings/obj/Debug/net7.0/Strings.csproj.CoreCompileInputs.cache
+/Users/bengraham/Software/C_Sharp/tutorial/Strings/bin/Debug/net7.0/Strings
+/Users/bengraham/Software/C_Sharp/tutorial/Strings/bin/Debug/net7.0/Strings.deps.json
+/Users/bengraham/Software/C_Sharp/tutorial/Strings/bin/Debug/net7.0/Strings.runtimeconfig.json
+/Users/bengraham/Software/C_Sharp/tutorial/Strings/bin/Debug/net7.0/Strings.dll
+/Users/bengraham/Software/C_Sharp/tutorial/Strings/bin/Debug/net7.0/Strings.pdb
+/Users/bengraham/Software/C_Sharp/tutorial/Strings/obj/Debug/net7.0/Strings.dll
+/Users/bengraham/Software/C_Sharp/tutorial/Strings/obj/Debug/net7.0/refint/Strings.dll
+/Users/bengraham/Software/C_Sharp/tutorial/Strings/obj/Debug/net7.0/Strings.pdb
+/Users/bengraham/Software/C_Sharp/tutorial/Strings/obj/Debug/net7.0/Strings.genruntimeconfig.cache
+/Users/bengraham/Software/C_Sharp/tutorial/Strings/obj/Debug/net7.0/ref/Strings.dll

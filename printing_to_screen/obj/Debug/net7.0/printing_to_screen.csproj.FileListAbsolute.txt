@@ -1,0 +1,15 @@
+/Users/bengraham/Software/C_Sharp/tutorial/printing_to_screen/bin/Debug/net7.0/printing_to_screen
+/Users/bengraham/Software/C_Sharp/tutorial/printing_to_screen/bin/Debug/net7.0/printing_to_screen.deps.json
+/Users/bengraham/Software/C_Sharp/tutorial/printing_to_screen/bin/Debug/net7.0/printing_to_screen.runtimeconfig.json
+/Users/bengraham/Software/C_Sharp/tutorial/printing_to_screen/bin/Debug/net7.0/printing_to_screen.dll
+/Users/bengraham/Software/C_Sharp/tutorial/printing_to_screen/bin/Debug/net7.0/printing_to_screen.pdb
+/Users/bengraham/Software/C_Sharp/tutorial/printing_to_screen/obj/Debug/net7.0/printing_to_screen.csproj.AssemblyReference.cache
+/Users/bengraham/Software/C_Sharp/tutorial/printing_to_screen/obj/Debug/net7.0/printing_to_screen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bengraham/Software/C_Sharp/tutorial/printing_to_screen/obj/Debug/net7.0/printing_to_screen.AssemblyInfoInputs.cache
+/Users/bengraham/Software/C_Sharp/tutorial/printing_to_screen/obj/Debug/net7.0/printing_to_screen.AssemblyInfo.cs
+/Users/bengraham/Software/C_Sharp/tutorial/printing_to_screen/obj/Debug/net7.0/printing_to_screen.csproj.CoreCompileInputs.cache
+/Users/bengraham/Software/C_Sharp/tutorial/printing_to_screen/obj/Debug/net7.0/printing_to_screen.dll
+/Users/bengraham/Software/C_Sharp/tutorial/printing_to_screen/obj/Debug/net7.0/refint/printing_to_screen.dll
+/Users/bengraham/Software/C_Sharp/tutorial/printing_to_screen/obj/Debug/net7.0/printing_to_screen.pdb
+/Users/bengraham/Software/C_Sharp/tutorial/printing_to_screen/obj/Debug/net7.0/printing_to_screen.genruntimeconfig.cache
+/Users/bengraham/Software/C_Sharp/tutorial/printing_to_screen/obj/Debug/net7.0/ref/printing_to_screen.dll

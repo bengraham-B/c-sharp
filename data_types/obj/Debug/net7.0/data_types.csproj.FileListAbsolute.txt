@@ -1,0 +1,15 @@
+/Users/bengraham/Software/C_Sharp/tutorial/data_types/bin/Debug/net7.0/data_types
+/Users/bengraham/Software/C_Sharp/tutorial/data_types/bin/Debug/net7.0/data_types.deps.json
+/Users/bengraham/Software/C_Sharp/tutorial/data_types/bin/Debug/net7.0/data_types.runtimeconfig.json
+/Users/bengraham/Software/C_Sharp/tutorial/data_types/bin/Debug/net7.0/data_types.dll
+/Users/bengraham/Software/C_Sharp/tutorial/data_types/bin/Debug/net7.0/data_types.pdb
+/Users/bengraham/Software/C_Sharp/tutorial/data_types/obj/Debug/net7.0/data_types.csproj.AssemblyReference.cache
+/Users/bengraham/Software/C_Sharp/tutorial/data_types/obj/Debug/net7.0/data_types.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bengraham/Software/C_Sharp/tutorial/data_types/obj/Debug/net7.0/data_types.AssemblyInfoInputs.cache
+/Users/bengraham/Software/C_Sharp/tutorial/data_types/obj/Debug/net7.0/data_types.AssemblyInfo.cs
+/Users/bengraham/Software/C_Sharp/tutorial/data_types/obj/Debug/net7.0/data_types.csproj.CoreCompileInputs.cache
+/Users/bengraham/Software/C_Sharp/tutorial/data_types/obj/Debug/net7.0/data_types.dll
+/Users/bengraham/Software/C_Sharp/tutorial/data_types/obj/Debug/net7.0/refint/data_types.dll
+/Users/bengraham/Software/C_Sharp/tutorial/data_types/obj/Debug/net7.0/data_types.pdb
+/Users/bengraham/Software/C_Sharp/tutorial/data_types/obj/Debug/net7.0/data_types.genruntimeconfig.cache
+/Users/bengraham/Software/C_Sharp/tutorial/data_types/obj/Debug/net7.0/ref/data_types.dll

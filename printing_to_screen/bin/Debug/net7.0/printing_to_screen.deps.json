@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "printing_to_screen/1.0.0": {
+        "runtime": {
+          "printing_to_screen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "printing_to_screen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
