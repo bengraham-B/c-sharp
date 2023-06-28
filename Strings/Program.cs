@@ -3,11 +3,11 @@
 class Program
 {
     static void Main(){
+        string phrase = "Samuel Sold guns to Algerian gangsters";
 
         Console.WriteLine("Ben \nGraham" + "\n Sammy");
 
         // Convert to Upper case
-        string phrase = "Sammuel Sold guns to Algerin gangsters";
         Console.WriteLine(phrase.ToLower());
         Console.WriteLine(phrase.ToUpper());
 
@@ -15,10 +15,14 @@ class Program
         Console.WriteLine(phrase.Contains("guns"));
         Console.WriteLine(phrase.Contains("Goose"));
 
+        //Index
         Console.WriteLine(phrase[0]);
         
-        Console.WriteLine("Added From VS code 22:53");
+        //Contains
+        Console.WriteLine(phrase.IndexOf("e"));
 
+        //Substrings - grab a part of the string, index where you want to start grabbing the string at
+        Console.WriteLine(phrase.Substring(8, 2));
 
         Console.WriteLine("");
 
