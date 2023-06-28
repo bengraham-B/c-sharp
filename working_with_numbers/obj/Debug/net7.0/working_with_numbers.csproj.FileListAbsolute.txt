@@ -1,0 +1,15 @@
+/Users/bengraham/Software/C_Sharp/tutorial/working_with_numbers/bin/Debug/net7.0/working_with_numbers
+/Users/bengraham/Software/C_Sharp/tutorial/working_with_numbers/bin/Debug/net7.0/working_with_numbers.deps.json
+/Users/bengraham/Software/C_Sharp/tutorial/working_with_numbers/bin/Debug/net7.0/working_with_numbers.runtimeconfig.json
+/Users/bengraham/Software/C_Sharp/tutorial/working_with_numbers/bin/Debug/net7.0/working_with_numbers.dll
+/Users/bengraham/Software/C_Sharp/tutorial/working_with_numbers/bin/Debug/net7.0/working_with_numbers.pdb
+/Users/bengraham/Software/C_Sharp/tutorial/working_with_numbers/obj/Debug/net7.0/working_with_numbers.csproj.AssemblyReference.cache
+/Users/bengraham/Software/C_Sharp/tutorial/working_with_numbers/obj/Debug/net7.0/working_with_numbers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bengraham/Software/C_Sharp/tutorial/working_with_numbers/obj/Debug/net7.0/working_with_numbers.AssemblyInfoInputs.cache
+/Users/bengraham/Software/C_Sharp/tutorial/working_with_numbers/obj/Debug/net7.0/working_with_numbers.AssemblyInfo.cs
+/Users/bengraham/Software/C_Sharp/tutorial/working_with_numbers/obj/Debug/net7.0/working_with_numbers.csproj.CoreCompileInputs.cache
+/Users/bengraham/Software/C_Sharp/tutorial/working_with_numbers/obj/Debug/net7.0/working_with_numbers.dll
+/Users/bengraham/Software/C_Sharp/tutorial/working_with_numbers/obj/Debug/net7.0/refint/working_with_numbers.dll
+/Users/bengraham/Software/C_Sharp/tutorial/working_with_numbers/obj/Debug/net7.0/working_with_numbers.pdb
+/Users/bengraham/Software/C_Sharp/tutorial/working_with_numbers/obj/Debug/net7.0/working_with_numbers.genruntimeconfig.cache
+/Users/bengraham/Software/C_Sharp/tutorial/working_with_numbers/obj/Debug/net7.0/ref/working_with_numbers.dll
