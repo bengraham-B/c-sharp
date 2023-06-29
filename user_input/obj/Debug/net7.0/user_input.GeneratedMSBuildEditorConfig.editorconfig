@@ -8,4 +8,8 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = user_input
+<<<<<<< HEAD
 build_property.ProjectDir = /Users/bengraham/Software/C_Sharp/tutorial/user_input/
+=======
+build_property.ProjectDir = C:\Users\aegraham\Source\Repos\c-sharp\user_input\
+>>>>>>> b54771b546eec405cb64a3c15c0fa45171a42749

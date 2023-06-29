@@ -1,7 +1,6 @@
 ﻿using System;
 
-class Program
-{
+class Program{
     static void Main(){
         string phrase = "Samuel Sold guns to Algerian gangsters";
 
