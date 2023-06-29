@@ -1,0 +1,15 @@
+/Users/bengraham/Software/C_Sharp/tutorial/arrays/bin/Debug/net7.0/arrays
+/Users/bengraham/Software/C_Sharp/tutorial/arrays/bin/Debug/net7.0/arrays.deps.json
+/Users/bengraham/Software/C_Sharp/tutorial/arrays/bin/Debug/net7.0/arrays.runtimeconfig.json
+/Users/bengraham/Software/C_Sharp/tutorial/arrays/bin/Debug/net7.0/arrays.dll
+/Users/bengraham/Software/C_Sharp/tutorial/arrays/bin/Debug/net7.0/arrays.pdb
+/Users/bengraham/Software/C_Sharp/tutorial/arrays/obj/Debug/net7.0/arrays.csproj.AssemblyReference.cache
+/Users/bengraham/Software/C_Sharp/tutorial/arrays/obj/Debug/net7.0/arrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bengraham/Software/C_Sharp/tutorial/arrays/obj/Debug/net7.0/arrays.AssemblyInfoInputs.cache
+/Users/bengraham/Software/C_Sharp/tutorial/arrays/obj/Debug/net7.0/arrays.AssemblyInfo.cs
+/Users/bengraham/Software/C_Sharp/tutorial/arrays/obj/Debug/net7.0/arrays.csproj.CoreCompileInputs.cache
+/Users/bengraham/Software/C_Sharp/tutorial/arrays/obj/Debug/net7.0/arrays.dll
+/Users/bengraham/Software/C_Sharp/tutorial/arrays/obj/Debug/net7.0/refint/arrays.dll
+/Users/bengraham/Software/C_Sharp/tutorial/arrays/obj/Debug/net7.0/arrays.pdb
+/Users/bengraham/Software/C_Sharp/tutorial/arrays/obj/Debug/net7.0/arrays.genruntimeconfig.cache
+/Users/bengraham/Software/C_Sharp/tutorial/arrays/obj/Debug/net7.0/ref/arrays.dll

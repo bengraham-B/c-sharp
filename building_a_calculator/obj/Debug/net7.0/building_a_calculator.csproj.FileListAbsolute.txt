@@ -1,0 +1,15 @@
+/Users/bengraham/Software/C_Sharp/tutorial/building_a_calculator/bin/Debug/net7.0/building_a_calculator
+/Users/bengraham/Software/C_Sharp/tutorial/building_a_calculator/bin/Debug/net7.0/building_a_calculator.deps.json
+/Users/bengraham/Software/C_Sharp/tutorial/building_a_calculator/bin/Debug/net7.0/building_a_calculator.runtimeconfig.json
+/Users/bengraham/Software/C_Sharp/tutorial/building_a_calculator/bin/Debug/net7.0/building_a_calculator.dll
+/Users/bengraham/Software/C_Sharp/tutorial/building_a_calculator/bin/Debug/net7.0/building_a_calculator.pdb
+/Users/bengraham/Software/C_Sharp/tutorial/building_a_calculator/obj/Debug/net7.0/building_a_calculator.csproj.AssemblyReference.cache
+/Users/bengraham/Software/C_Sharp/tutorial/building_a_calculator/obj/Debug/net7.0/building_a_calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bengraham/Software/C_Sharp/tutorial/building_a_calculator/obj/Debug/net7.0/building_a_calculator.AssemblyInfoInputs.cache
+/Users/bengraham/Software/C_Sharp/tutorial/building_a_calculator/obj/Debug/net7.0/building_a_calculator.AssemblyInfo.cs
+/Users/bengraham/Software/C_Sharp/tutorial/building_a_calculator/obj/Debug/net7.0/building_a_calculator.csproj.CoreCompileInputs.cache
+/Users/bengraham/Software/C_Sharp/tutorial/building_a_calculator/obj/Debug/net7.0/building_a_calculator.dll
+/Users/bengraham/Software/C_Sharp/tutorial/building_a_calculator/obj/Debug/net7.0/refint/building_a_calculator.dll
+/Users/bengraham/Software/C_Sharp/tutorial/building_a_calculator/obj/Debug/net7.0/building_a_calculator.pdb
+/Users/bengraham/Software/C_Sharp/tutorial/building_a_calculator/obj/Debug/net7.0/building_a_calculator.genruntimeconfig.cache
+/Users/bengraham/Software/C_Sharp/tutorial/building_a_calculator/obj/Debug/net7.0/ref/building_a_calculator.dll
